@@ -1,0 +1,6 @@
+EESchema-DOCLIB  Version 2.0  Date: Fri Oct 28 03:01:53 2016
+$CMP STM32F207IGT7
+D ARM® Cortex®-M3 STM32 F2 Microcontroller IC 32-Bit 120MHz 1MB (1M x 8) FLASH 176-LQFP (24x24)
+$ENDCMP
+#
+#End Library

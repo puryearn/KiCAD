@@ -1,0 +1,6 @@
+EESchema-DOCLIB  Version 2.0  Date: Fri Oct 28 03:36:08 2016
+$CMP SI7013-A20-GM1
+D Humidity Temperature Sensor 0 ~ 100% RH I²C ±3% RH 18S Surface Mount
+$ENDCMP
+#
+#End Library
