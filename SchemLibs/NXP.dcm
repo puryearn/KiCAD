@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: Fri Oct 28 01:32:47 2016
+$CMP 	FXOS8700CQR1CT
+D Accelerometer, Magnetometer, 3 Axis Sensor I²C, SPI Output
+$ENDCMP
+$CMP FXAS21002CQR1CT
+D Gyroscope X (Pitch), Y (Roll), Z (Yaw) ±250, 500, 1000, 2000 4Hz ~ 256Hz I²C, SPI 24-QFN (4x4)
+$ENDCMP
+#
+#End Library
