@@ -1,5 +1,5 @@
 EESchema-DOCLIB  Version 2.0  Date: Fri Oct 28 01:32:47 2016
-$CMP 	FXOS8700CQR1CT
+$CMP FXOS8700CQR1CT
 D Accelerometer, Magnetometer, 3 Axis Sensor I²C, SPI Output
 $ENDCMP
 $CMP FXAS21002CQR1CT
